@@ -81,3 +81,21 @@ footer{
     padding:20px;
     margin-top:30px;
 }
+
+.card{
+    background:#ffffff;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+    margin-bottom:20px;
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card h3{
+    margin-top:0;
+    color:#1f4d3b;
+}
