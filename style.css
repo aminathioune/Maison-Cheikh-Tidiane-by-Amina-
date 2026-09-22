@@ -1,0 +1,59 @@
+body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#f8f8f8;
+  color:#333;
+}
+
+.hero{
+  background:#1f4d3b;
+  color:white;
+  text-align:center;
+  padding:50px 20px;
+}
+
+.logo{
+  width:120px;
+  border-radius:50%;
+  margin-bottom:20px;
+}
+
+.hero h1{
+  margin:10px 0;
+}
+
+.btn{
+  display:inline-block;
+  margin-top:20px;
+  padding:12px 25px;
+  background:white;
+  color:#1f4d3b;
+  text-decoration:none;
+  border-radius:5px;
+  font-weight:bold;
+}
+
+section{
+  max-width:900px;
+  margin:auto;
+  padding:40px 20px;
+  background:white;
+  margin-top:20px;
+  border-radius:10px;
+}
+
+h2{
+  color:#1f4d3b;
+}
+
+ul{
+  line-height:1.8;
+}
+
+footer{
+  text-align:center;
+  padding:20px;
+  background:#1f4d3b;
+  color:white;
+  margin-top:20px;
+}
